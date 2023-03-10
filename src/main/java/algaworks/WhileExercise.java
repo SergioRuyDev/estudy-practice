@@ -1,10 +1,12 @@
+package algaworks;
+
 public class WhileExercise {
 
     static final Integer DIVISOR = 3;
 
     public static void main(String[] args) {
 
-        // For is when you know how many times you need the repetition. While is for when you don't know.
+        // algaworks.For is when you know how many times you need the repetition. While is for when you don't know.
         //While is more for conditions.
 
 //        int i = 0;

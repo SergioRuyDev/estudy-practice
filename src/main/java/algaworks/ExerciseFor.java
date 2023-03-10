@@ -1,3 +1,5 @@
+package algaworks;
+
 public class ExerciseFor {
     public static void main(String[] args) {
 
