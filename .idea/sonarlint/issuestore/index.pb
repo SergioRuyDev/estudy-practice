@@ -1,23 +1,33 @@
 
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-F
-src/main/java/For.java,5/4/54812b0a5c55737082a81800fdc2d1248b73ebe6
-N
-src/main/java/IteracaoFor.java,9/6/968c258f1f9d1ec0dbae0348053fca1b3b7e1fda
-N
-src/main/java/ExerciseFor.java,9/2/9243bd4bd4500b8daf1d73e31692d8e901db9feb
-K
-src/main/java/ArraySum.java,9/e/9ef8d1e189f757ab5f16d65c14957f96f5cf5cec
-P
- src/main/java/ArrayExercise.java,0/c/0cfd289241d04b75245c6671477075732773f376
-P
- src/main/java/WhileExercise.java,9/b/9b4fd35b98eacab0a11f2514ca174125d58a68b6
-O
-src/main/java/ArrayPartOne.java,b/b/bb51895e66e4726ed15112b3f49d17b33a4a1682
 [
-+src/main/java/LargestElementWithStream.java,1/3/132e29fc8be894c802a401c688103bd4ad88da3e
-W
-'src/main/java/LargestElementStatic.java,0/3/032c7b341c122789eaec8146b5e535b5fc46953a
-J
-src/main/java/Array2d.java,c/d/cd910182dafb4f4f53ec8fcb225e0590449335c4
++src/main/java/algaworks/Array2dimesoes.java,8/b/8b4d946e21ade16f63472f58226cbc74bc3565ce
+]
+-src/main/java/algaworks/ExercicioArray2d.java,4/9/49a12c0872d5495b5f1cdc5d03cfe42dd46e4887
+P
+ src/main/java/algaworks/For.java,e/e/eea3eb26b63938f6163fc572a5fddc6324e5bcab
+V
+&src/main/java/nelioAlves/ifbomdia.java,c/e/ce54e647d679140ffcc26105b4e18b56a8c5dc4c
+a
+1src/main/java/algaworks/LargestElementStatic.java,0/7/0730cae3474fe75aaaf4e5f92a9683b882c4a28b
+e
+5src/main/java/algaworks/LargestElementWithStream.java,0/b/0bb67deba515768d3031cf08a5a9be6d83cf492f
+^
+.src/main/java/nelioAlves/negativopositivo.java,f/1/f1fc9a2405f711132a1eaf825e4f8de0335984d5
+Z
+*src/main/java/algaworks/WhileExercise.java,b/9/b9fc76738fd038d5b23d3d2e4ae942fc75c4a0ad
+X
+(src/main/java/nelioAlves/parouimpar.java,4/7/47a9d9d704741d518b6eba3a262705f0544a8b6a
+Z
+*src/main/java/algaworks/ArrayExercise.java,2/3/2316ad0ae675836e9c172a8a3f1a987832025a98
+Y
+)src/main/java/algaworks/ArrayPartOne.java,2/9/297b72a510855d0e1b7057b2fb566b0bfdc7db27
+U
+%src/main/java/algaworks/ArraySum.java,6/5/65fe8fa683f91095baf6a0e73c0be7e44eff3f5c
+X
+(src/main/java/algaworks/ExerciseFor.java,e/e/ee68a4790b05a55634f84babf4fa7d31dac9c2e4
+X
+(src/main/java/algaworks/IteracaoFor.java,1/2/12849544e5a11af585547d66e9e9b33a36603635
+S
+#src/main/java/nelioAlves/Conta.java,e/2/e2727630585c1f323b5c9a315c2e0dcd8e6bf174
