@@ -17,8 +17,6 @@ e
 .src/main/java/nelioAlves/negativopositivo.java,f/1/f1fc9a2405f711132a1eaf825e4f8de0335984d5
 Z
 *src/main/java/algaworks/WhileExercise.java,b/9/b9fc76738fd038d5b23d3d2e4ae942fc75c4a0ad
-X
-(src/main/java/nelioAlves/parouimpar.java,4/7/47a9d9d704741d518b6eba3a262705f0544a8b6a
 Z
 *src/main/java/algaworks/ArrayExercise.java,2/3/2316ad0ae675836e9c172a8a3f1a987832025a98
 Y
@@ -33,10 +31,6 @@ S
 #src/main/java/nelioAlves/Conta.java,e/2/e2727630585c1f323b5c9a315c2e0dcd8e6bf174
 T
 $src/main/java/algaworks/Array2d.java,9/0/90cc44a5adddd72f70600d453cd60e6c9b388af1
-W
-'src/main/java/hackerrank/hourglass.java,6/8/687dc86b9fe6e26a81b3ae203938e2b325c481b8
-Z
-*src/main/java/hackerrank/JavaSubArray.java,9/5/9541b6a355b9ce58bbfe1f93728028b7b726f7c4
 U
 %src/main/java/hackerrank/Array1d.java,6/7/67163b4cf4ceeabad83d734d6649c34a9175a01e
 e
