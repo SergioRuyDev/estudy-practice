@@ -35,3 +35,9 @@ U
 %src/main/java/hackerrank/Array1d.java,6/7/67163b4cf4ceeabad83d734d6649c34a9175a01e
 e
 5src/main/java/hackerrank/JavaStringsIntroduction.java,4/8/488f23045e5b233264e62476b2cf8b5b460fe570
+X
+(src/main/java/nelioAlves/parouimpar.java,4/7/47a9d9d704741d518b6eba3a262705f0544a8b6a
+W
+'src/main/java/hackerrank/hourglass.java,6/8/687dc86b9fe6e26a81b3ae203938e2b325c481b8
+Z
+*src/main/java/hackerrank/JavaSubArray.java,9/5/9541b6a355b9ce58bbfe1f93728028b7b726f7c4
