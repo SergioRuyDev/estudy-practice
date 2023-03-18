@@ -41,3 +41,7 @@ W
 'src/main/java/hackerrank/hourglass.java,6/8/687dc86b9fe6e26a81b3ae203938e2b325c481b8
 Z
 *src/main/java/hackerrank/JavaSubArray.java,9/5/9541b6a355b9ce58bbfe1f93728028b7b726f7c4
+\
+,src/main/java/educative/CheckRemoveEven.java,8/0/802f8f8b445162fe17dcfa722132c39c47a4a141
+\
+,src/main/java/educative/CheckMergeArray.java,5/f/5f531bc6975215563e94831b25e282260a8d5d3a
