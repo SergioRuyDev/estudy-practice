@@ -45,9 +45,13 @@ Z
 ,src/main/java/educative/CheckRemoveEven.java,8/0/802f8f8b445162fe17dcfa722132c39c47a4a141
 \
 ,src/main/java/educative/CheckMergeArray.java,5/f/5f531bc6975215563e94831b25e282260a8d5d3a
-Y
-)src/main/java/educative/BasicStrings.java,a/2/a259460ac62ba04626ac8d09f9774da4a6f4a49c
 U
 %src/main/java/educative/CheckSum.java,5/f/5f9d05aa24745a13530033cba64658d7fab6a028
 V
 &src/main/java/educative/DataTypes.java,8/2/82275c873dba59eeef8ff8271d181c5b3d3f3372
+Z
+*src/main/java/educative/PayCalculator.java,1/3/133778a47ed46aa7cbd4b87a6f4a08acc932fa33
+\
+,src/main/java/educative/EuclidsDistance.java,d/0/d08791a8901856ffe4ce65a26bc6ba6c1c210065
+S
+#src/main/java/educative/TableN.java,a/5/a5bcfa13f37e6246d554948f996bcfd245cdadce
