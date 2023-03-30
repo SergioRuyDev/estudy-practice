@@ -55,3 +55,13 @@ Z
 ,src/main/java/educative/EuclidsDistance.java,d/0/d08791a8901856ffe4ce65a26bc6ba6c1c210065
 S
 #src/main/java/educative/TableN.java,a/5/a5bcfa13f37e6246d554948f996bcfd245cdadce
+_
+/src/main/java/educative/FactorsOfUserInput.java,a/6/a6e01c2bc0dbaac644a22651be9265e1bf602050
+R
+"src/main/java/educative/Loops.java,9/8/98b4417433cc2fa45b2f77d7ec4a43a22fe055d9
+Y
+)src/main/java/educative/BasicStrings.java,a/2/a259460ac62ba04626ac8d09f9774da4a6f4a49c
+Z
+*src/main/java/educative/AverageNumber.java,6/a/6a15e9092e74d98faf7d9f9252b866511f6aeec2
+X
+(src/main/java/educative/PrimeNumber.java,4/b/4b29b2bef3ec590161f08259db05ef82391e0584
