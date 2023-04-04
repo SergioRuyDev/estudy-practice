@@ -65,12 +65,8 @@ Z
 *src/main/java/educative/AverageNumber.java,6/a/6a15e9092e74d98faf7d9f9252b866511f6aeec2
 X
 (src/main/java/educative/PrimeNumber.java,4/b/4b29b2bef3ec590161f08259db05ef82391e0584
-Y
-)src/main/java/educative/WhileAverage.java,0/3/0366b78edf28f299776a5c8206b149c3ea264aad
 c
 3src/main/java/educative/GeometricSequenceWhile.java,8/3/83e6a7dd0910d079602d45026e7d4e0804d472f3
-V
-&src/main/java/educative/WhileLoop.java,c/7/c7d22ef79a1dcd45e4718f41fb5c1701fd1dba3c
 U
 %src/main/java/educative/WhileMdC.java,3/6/36b615e0e9966d181166be8a9a19d3a46c8db670
 U
@@ -79,3 +75,11 @@ U
 -src/main/java/educative/CartesianProduct.java,8/7/877c03a755070044bfec90c17340388e43300f90
 Y
 )src/main/java/educative/OrderedPairs.java,5/9/599bcee0cf9e8623934096c7219122f78b07b70b
+_
+/src/main/java/educative/RectangleAsterisks.java,d/0/d0d83fb5d5e691e7319a8ea5a627fbaa9316a748
+Z
+*src/main/java/educative/RightTriangle.java,3/2/32771e711f9c58c67295185b7e47b9fdc0d22df9
+Y
+)src/main/java/educative/HollowSquare.java,2/7/27fb0d7c0c4697e76dc5148db97f2093cda01407
+\
+,src/main/java/educative/SquareAsterisks.java,2/0/20a1e3aa75c687b248b4329be677918fd9cb7a9c
