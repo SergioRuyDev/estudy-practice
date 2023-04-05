@@ -83,3 +83,13 @@ Y
 )src/main/java/educative/HollowSquare.java,2/7/27fb0d7c0c4697e76dc5148db97f2093cda01407
 \
 ,src/main/java/educative/SquareAsterisks.java,2/0/20a1e3aa75c687b248b4329be677918fd9cb7a9c
+Y
+)src/main/java/educative/WhileAverage.java,0/3/0366b78edf28f299776a5c8206b149c3ea264aad
+^
+.src/main/java/educative/NearestPowerOfTwo.java,2/b/2b1d6e23948df5348564823031f72bb6de3a7876
+V
+&src/main/java/educative/WhileLoop.java,c/7/c7d22ef79a1dcd45e4718f41fb5c1701fd1dba3c
+Z
+*src/main/java/educative/ReverseString.java,f/6/f62294e5576881130f98962fd4371642e250c30f
+[
++src/main/java/educative/PalindromeTest.java,a/a/aa96b7cb5b396e983a2d757c070440b15822d9d4
