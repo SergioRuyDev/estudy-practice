@@ -83,8 +83,6 @@ Y
 )src/main/java/educative/WhileAverage.java,0/3/0366b78edf28f299776a5c8206b149c3ea264aad
 ^
 .src/main/java/educative/NearestPowerOfTwo.java,2/b/2b1d6e23948df5348564823031f72bb6de3a7876
-U
-%src/main/java/educative/CheckSum.java,5/f/5f9d05aa24745a13530033cba64658d7fab6a028
 ]
 -src/main/java/educative/SumAdjacentValue.java,6/f/6fe0de0e8c48ac0b3d7139ffbcb1a6c0de7ea178
 c

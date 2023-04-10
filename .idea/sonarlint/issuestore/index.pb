@@ -85,8 +85,6 @@ Y
 .src/main/java/educative/NearestPowerOfTwo.java,2/b/2b1d6e23948df5348564823031f72bb6de3a7876
 V
 &src/main/java/educative/WhileLoop.java,c/7/c7d22ef79a1dcd45e4718f41fb5c1701fd1dba3c
-U
-%src/main/java/educative/CheckSum.java,5/f/5f9d05aa24745a13530033cba64658d7fab6a028
 ]
 -src/main/java/educative/SumAdjacentValue.java,6/f/6fe0de0e8c48ac0b3d7139ffbcb1a6c0de7ea178
 c
