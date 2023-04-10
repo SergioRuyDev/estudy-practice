@@ -11,28 +11,28 @@ public class WhileFibonacci {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        int n;
+        int number;
         System.out.println("Enter the number of terms (maximum 20) for the Fibonacci sequence: ");
-        n=scanner.nextInt();
-        if (n <= 1 || n > 20)
+        number = scanner.nextInt();
+        if (number <= 1 || number > 20)
         {
             System.out.println("It seems the number of terms for the Fibonacci sequence has an invalid value: ");
         }
         else
         {
-            int[] fib = new int[n];
+            int[] fib = new int[number];
             fib[0] = 0;
             fib[1] = 1;
 
             System.out.println("First n terms of fibonacci sequence are: ");
             int count = 2;
 
-            while(count < n)
+            while(count < number)
             {
                 fib[count] = fib [count - 2] + fib [count - 1]; //adding last two terms
                 count ++;
             }
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < number; i++)
             {
                 System.out.print(fib[i] + " ");
             }

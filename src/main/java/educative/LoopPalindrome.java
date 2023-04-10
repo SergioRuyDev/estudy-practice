@@ -21,6 +21,7 @@ public class LoopPalindrome {
         }
 
         pflag =1;
+        // input 2
         int[] values = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1};
         length = 23;
         check = 22;
@@ -41,8 +42,10 @@ public class LoopPalindrome {
 //We use the variables input and values to store the array values.
 //We use a variable pflag and assign it a value 1.
 //We compare the array values starting from the first index with the last index in the first iteration of the loop.
-//In every subsequent iteration of the loop, we compare the second index with the second to the last, the third index with the third to the last, and so on.
+//In every subsequent iteration of the loop, we compare the second index with the second to the last, the third index
+// with the third to the last, and so on.
 //We update the value of pflag with 0 if the values are not the same.
 //The value of pflag remains 1 if all the index values are the same.
-//We display "This array is a PALINDROME!" if the value of pflag is 1 after the body of the for loop. Otherwise, the "This array is NOT a palindrome!".
+//We display "This array is a PALINDROME!" if the value of pflag is 1 after the body of the for loop.
+// Otherwise, the "This array is NOT a palindrome!".
 }
