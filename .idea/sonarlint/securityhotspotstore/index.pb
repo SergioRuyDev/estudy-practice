@@ -193,8 +193,6 @@ W
 'src/main/java/educative/Challenge2.java,b/7/b75efeea5859d0befd43ffcee8d9c3c93e408dd4
 [
 +src/main/java/educative/LoopPalindrome.java,b/8/b8c330862ad83c4062c8f8911b6c8b29cbf9c2c8
-[
-+src/main/java/educative/WhileFibonacci.java,7/e/7e10a0d19490529776c366d8fbc3fe8bbd78dbc3
 U
 %src/main/java/educative/CheckSum.java,5/f/5f9d05aa24745a13530033cba64658d7fab6a028
 _
