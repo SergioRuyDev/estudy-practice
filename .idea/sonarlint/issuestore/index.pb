@@ -207,3 +207,25 @@ _
 ,src/main/java/educative/SumColumnMatrix.java,b/1/b143e065a237214f716dab4fdff98621a0269eed
 f
 6src/main/java/educative/OutlierArithmeticSequence.java,e/2/e2cff4ed365864623d9b731e2d5e5f80e138cfb6
+_
+/src/main/java/educative/methods/MultiTable.java,b/f/bf61c540ffc57f0490a32ea63fe187c327457953
+P
+ src/main/java/asml/Chalenge.java,e/a/eaf3a5e1276ec5cfb924b00fc1cc070ac3567eab
+R
+"src/main/java/asml/Challenge3.java,8/5/85c11525eb4135a5a729c24448dc00a982833e20
+f
+6src/main/java/educative/methods/FindDistinctValue.java,1/0/10311789cb8446645afde2e291f6fb2e85731c9a
+V
+&src/main/java/educative/SortArray.java,a/7/a743d0e75ff9b25ea116254aa799d0548dbb0e03
+h
+8src/main/java/educative/methods/SearchStringInArray.java,2/c/2c521e1a724304665acf59eb8876a135726b1bb4
+[
++src/main/java/educative/WhileFibonacci.java,7/e/7e10a0d19490529776c366d8fbc3fe8bbd78dbc3
+h
+8src/main/java/educative/methods/ArrayBuiltInMethods.java,8/8/88a21a840f9c19f1acce94aaf5fa30bc612c43ba
+d
+4src/main/java/educative/methods/MethodFibonacci.java,c/c/cce9c2319e4c5b0a8a167c218a5d4d5df3532522
+j
+:src/main/java/educative/methods/StringsBuiltInMethods.java,2/b/2bf8ccaaf614d109feec2b59eb8f7319adc3aaf2
+`
+0src/main/java/educative/methods/AnagramTask.java,1/d/1de6c54204460b1134f7c1c0be1487b6807f167b
