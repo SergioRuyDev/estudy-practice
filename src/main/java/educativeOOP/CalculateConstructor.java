@@ -25,8 +25,6 @@ public class CalculateConstructor {
         double divide() {
             return this.num2 / this.num1;
         }
-
-
     }
 
 
