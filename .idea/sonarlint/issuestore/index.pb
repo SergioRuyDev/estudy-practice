@@ -247,3 +247,27 @@ h
 8src/main/java/educative/methods/ArrayBuiltInMethods.java,8/8/88a21a840f9c19f1acce94aaf5fa30bc612c43ba
 `
 0src/main/java/educative/methods/AnagramTask.java,1/d/1de6c54204460b1134f7c1c0be1487b6807f167b
+\
+,src/main/java/educative/complex/Patient.java,2/b/2b49b582411ded8ffb0076d5093709b48f7c8278
+Z
+*src/main/java/educativeOOP/Assessment.java,8/f/8f7939af6d0040c4d0cb629905b388449595cc98
+P
+ src/main/java/asml/Chalenge.java,e/a/eaf3a5e1276ec5cfb924b00fc1cc070ac3567eab
+R
+"src/main/java/asml/Challenge3.java,8/5/85c11525eb4135a5a729c24448dc00a982833e20
+U
+%src/main/java/educativeOOP/Shape.java,6/e/6e754e77f33749f3d665cfe8e7180724bfa9e5d8
+V
+&src/main/java/educativeOOP/Circle.java,0/8/08c389c817767ff1b0642ccb34b8917f7e618c7f
+Y
+)src/main/java/educativeOOP/Rectangle.java,9/1/911ca6ebc58da8f319aa6896e964d7eb67e0b711
+V
+&src/main/java/educativeOOP/Animal.java,8/7/8763e0466f02f2bd2ab68ec1916c5b701a4b5fd9
+T
+$src/main/java/educativeOOP/Book.java,9/c/9ced2432b0fccae15e533920ba8597f4ae61099e
+[
++src/main/java/educativeOOP/GroceryList.java,b/4/b493415b2cdd952636395b64351339713f293c8d
+S
+#src/main/java/educativeOOP/Car.java,b/f/bf4457b4e6a0fab62e36157a5fd0948d6f95d295
+W
+'src/main/java/educativeOOP/Vehicle.java,3/8/384fbb54c61b4e28428cf4861f091a9104a6a045
