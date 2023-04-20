@@ -269,13 +269,3 @@ S
 #src/main/java/educativeOOP/Car.java,b/f/bf4457b4e6a0fab62e36157a5fd0948d6f95d295
 W
 'src/main/java/educativeOOP/Vehicle.java,3/8/384fbb54c61b4e28428cf4861f091a9104a6a045
-h
-8src/main/java/educativeDataStructures/ArrayListDemo.java,4/5/450cd71e2b7e055979c534f730139050e9ce96eb
-m
-=src/main/java/educativeDataStructures/ArrayListIteration.java,9/3/93e4391cf3f225ce8a2e3629c007bc6337fdcb7e
-i
-9src/main/java/educativeDataStructures/ArrayListDemo3.java,0/4/0405ff855c6c7728465112e237ed8c760bfb9505
-p
-@src/main/java/educativeDataStructures/ArrayListDemoIterator.java,2/c/2cc35b0102c1f7c05378a27a672c87b43dea012d
-i
-9src/main/java/educativeDataStructures/ArrayListDemo2.java,4/5/4582ecc3971e2de46d6950551ad658a5febb0910
