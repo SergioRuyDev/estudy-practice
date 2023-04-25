@@ -301,3 +301,11 @@ Esrc/main/java/educativeDataStructures/arraylistExercise/Employee.java,7/d/7dc5
 Nsrc/main/java/educativeDataStructures/arraylistExercise/ArrayListExercise.java,6/0/601ad54bac7ff96a6c9038ba970dfc769a049ec9
 h
 8src/main/java/educativeDataStructures/ArrayListDemo.java,4/5/450cd71e2b7e055979c534f730139050e9ce96eb
+t
+Dsrc/main/java/educativeDataStructures/linkedList/LinkedListDemo.java,5/e/5e126f40c99dac214c278b70fcd102879959c39d
+n
+>src/main/java/educativeDataStructures/hashSet/HashSetDemo.java,6/c/6cf3922f68e65a33de1c02bfd4bdef874ce11b1a
+s
+Csrc/main/java/educativeDataStructures/hashSet/IterationHashSet.java,e/f/efb8ce55b0eb889ffb765bbbf11509bd5e063706
+r
+Bsrc/main/java/educativeDataStructures/hashSet/HashSetExercise.java,d/e/de0f72a56e26a9ee45c5e48a91e3983b13844751
