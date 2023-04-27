@@ -6,7 +6,9 @@ import java.util.List;
 
 public class CollectionsClassDemo {
     public static void main(String[] args) {
-
+//Baires dev test below
+        int[] arr = {2,3,4,5,2};
+        occurs(arr, 2);
         List<Integer> list = new ArrayList<>();
         list.add(34);
         list.add(12);
@@ -23,5 +25,17 @@ public class CollectionsClassDemo {
         System.out.println("Total number of time the element 75 is present is the List is: " +
                 Collections.frequency(list, 75));
 
+
+
+    }
+    public static int occurs(int[] arr, int number) {
+        int count = 0;
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == number) {
+                count++;
+            }
+        }
+        System.out.println(count);
+        return count;
     }
 }
