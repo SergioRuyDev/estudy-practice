@@ -163,8 +163,6 @@ h
 8src/main/java/educative/complex/DistinctValuesArray.java,7/e/7e45fe9652c9e81ad6bafe6b8f08480b6cae87b1
 d
 4src/main/java/educativeOOP/CalculateConstructor.java,1/d/1deefa8dd5eef38d1d21f4132e3d80846bccff69
-_
-/src/main/java/educative/TwoArrayDimensions.java,d/0/d0e3678ad29f12403df67ba75b790b8c46f723f7
 S
 #src/main/java/educative/TableN.java,a/5/a5bcfa13f37e6246d554948f996bcfd245cdadce
 T
