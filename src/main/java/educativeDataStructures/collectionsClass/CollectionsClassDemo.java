@@ -7,8 +7,8 @@ import java.util.List;
 public class CollectionsClassDemo {
     public static void main(String[] args) {
 //Baires dev test below
-        int[] arr = {2,3,4,5,2};
-        occurs(arr, 2);
+//        int[] arr = {2,3,4,5,2};
+//        occurs(arr, 2);
         List<Integer> list = new ArrayList<>();
         list.add(34);
         list.add(12);
@@ -24,6 +24,8 @@ public class CollectionsClassDemo {
         System.out.println("The maximum element is the List is: " + Collections.max(list));
         System.out.println("Total number of time the element 75 is present is the List is: " +
                 Collections.frequency(list, 75));
+        // return the position that should be inserted if not find the element.
+        System.out.println("Find some element: " + Collections.binarySearch(list, 222));
 
 
 
