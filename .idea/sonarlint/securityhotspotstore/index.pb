@@ -321,3 +321,13 @@ l
 Nsrc/main/java/educativeDataStructures/arraylistExercise/ArrayListExercise.java,6/0/601ad54bac7ff96a6c9038ba970dfc769a049ec9
 |
 Lsrc/main/java/educativeDataStructures/comparatorArrayList/ArrayListDemo.java,5/3/53befe60666814108dddcf070bbf1c1343790c98
+~
+Nsrc/main/java/educativeDataStructures/comparatorArrayList/BrandComparator.java,8/b/8b3103f3f8cddb2b9b2e22395358af6833cfdbae
+{
+Ksrc/main/java/educativeDataStructures/projects/GuessTheRightNumberGame.java,4/7/47214094ddf440cf2c03d0719119775c51e315ac
+Å
+Qsrc/main/java/educativeDataStructures/collectionsClass/CollectionsClassDemo2.java,6/8/68d6fc4f31ff362b7a48dda1f0a13d436b73d4b8
+Å
+Qsrc/main/java/educativeDataStructures/collectionsClass/CollectionsThreadSafe.java,1/5/153812b70a72adf37f36c8fcc743eca52f6187b7
+Ä
+Psrc/main/java/educativeDataStructures/collectionsClass/CollectionsClassDemo.java,8/1/81172100baa5969bdb5829877fa658f3a35c68a0
