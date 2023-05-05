@@ -30,4 +30,9 @@ public class Cardiologist implements Doctor {
     public String toString() {
         return ("Cardiologist:-\n\tName: "+ name+ "\n\tAge: "+age+"\n\tAvailable:"+availability);
     }
+
+    @Override
+    public void setAvalaibility(boolean status) {
+        availability = status;
+    }
 }

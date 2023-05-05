@@ -28,6 +28,11 @@ public class Dietitian implements Doctor{
 
     @Override
     public String toString() {
-        return ("Diettitian:-\n\tName: "+ name+ "\n\tAge: "+age+"\n\tAvailable:"+availability);
+        return ("Dietitian:-\n\tName: "+ name+ "\n\tAge: "+age+"\n\tAvailable:"+availability);
+    }
+
+    @Override
+    public void setAvalaibility(boolean status) {
+        availability = status;
     }
 }

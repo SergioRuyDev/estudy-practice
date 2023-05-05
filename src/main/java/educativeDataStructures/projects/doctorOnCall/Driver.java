@@ -20,9 +20,22 @@ public class Driver {
         ArrayList<Neurosurgeon> nList = h.getNeurosurgeons();
         ArrayList<Dietitian> dList = h.getDietitians();
 
-        h.printDoctor(cList.get(0));
-        h.printDoctor(nList.get(0));
-        h.printDoctor(dList.get(0));
+        /* Sending patient to first cardiologist*/
+        h.sendPatient(cList.get(0));
+
+        /* Trying sending another patient */
+        h.sendPatient(cList.get(0));
+
+        cList.get(0).setAvalaibility(true);
+        h.sendPatient(cList.get(0));
+
+        h.bookAppointment("Dave", 21, "neurosurgeon");
+        h.bookAppointment("Kim", 19, "cardiologist");
+        h.bookAppointment("Sarah", 27, "dietitian");
+
+        h.printAllCardiologists();
+        h.printAllDietitians();
+        h.printAllNeurosurgeons();
 
     }
 }

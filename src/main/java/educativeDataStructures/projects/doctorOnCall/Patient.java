@@ -5,6 +5,7 @@ public class Patient {
     private String name;
     private int age;
     private int code;
+    public static int totalPatients;
 
     public Patient(String name, int age, int code) {
         this.name = name;

@@ -30,4 +30,9 @@ public class Neurosurgeon implements Doctor{
     public String toString() {
         return ("Neurosurgeon:-\n\tName: "+ name+ "\n\tAge: "+age+"\n\tAvailable:"+availability);
     }
+
+    @Override
+    public void setAvalaibility(boolean status) {
+        availability = status;
+    }
 }

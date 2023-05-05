@@ -7,4 +7,6 @@ public interface Doctor {
     public boolean getAvailability();
 
     public String toString();
+
+    public void setAvalaibility(boolean status);
 }
