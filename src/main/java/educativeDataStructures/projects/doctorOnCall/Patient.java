@@ -12,30 +12,26 @@ public class Patient {
         this.code = code;
     }
 
-    public Patient() {
-    }
-
     public String getName() {
         return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
     }
 
     public int getAge() {
         return age;
     }
 
-    public void setAge(int age) {
-        this.age = age;
-    }
-
     public int getCode() {
         return code;
     }
 
-    public void setCode(int code) {
-        this.code = code;
+    public void printPatient() {
+        Patient p = new Patient(name, age, code);
+        System.out.println(p);
+        return;
+    }
+
+    @Override
+    public String toString() {
+        return ("Patient:-\n\tName: "+ name+ "\n\tAge: "+age);
     }
 }
