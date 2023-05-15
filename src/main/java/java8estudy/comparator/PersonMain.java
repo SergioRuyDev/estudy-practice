@@ -1,4 +1,4 @@
-package java8estudy.conparator;
+package java8estudy.comparator;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -19,8 +19,7 @@ public class PersonMain {
         System.out.println("Persons after sorting");
         for (Person person : sortedPersons) {
             System.out.println("Person Name: " + person.getName() + " Person Age: " + person.getAge() +
-                    "Person Country: " + person.getCountry());
+                    " Person Country: " + person.getCountry());
         }
-
     }
 }

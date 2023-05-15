@@ -275,8 +275,6 @@ t
 Dsrc/main/java/educativeDataStructures/linkedList/LinkedListDemo.java,5/e/5e126f40c99dac214c278b70fcd102879959c39d
 s
 Csrc/main/java/educativeDataStructures/hashSet/IterationHashSet.java,e/f/efb8ce55b0eb889ffb765bbbf11509bd5e063706
-t
-Dsrc/main/java/educativeDataStructures/hashMap/HashMapChallenger.java,2/a/2ab6519c5bbeee6036d95d9d24991f76c70df581
 n
 >src/main/java/educativeDataStructures/hashMap/HashMapDemo.java,b/1/b1d04260d1ace9e3350f66c8311fcf9463592dba
 o
@@ -285,8 +283,6 @@ o
 ?src/main/java/educativeDataStructures/hashMap/HashMapDemo3.java,a/3/a339e2ccdb19065a46ff94d3511bc77a5a1c495c
 o
 ?src/main/java/educativeDataStructures/hashMap/HashMapDemo4.java,9/0/90a90e9ce96101b7f32f62461311bed7ebc3cf41
-s
-Csrc/main/java/educativeDataStructures/hashMap/HashMapIteration.java,0/7/075ffea187816d24c08b58d61f0e915c8ddb27ea
 r
 Bsrc/main/java/educativeDataStructures/hashMap/HashMapIterator.java,2/e/2e3cffc6749c64bcff31f646236ce119dd4ff8c6
 r

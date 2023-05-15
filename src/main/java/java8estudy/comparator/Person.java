@@ -1,4 +1,4 @@
-package java8estudy.conparator;
+package java8estudy.comparator;
 
 public class Person {
 

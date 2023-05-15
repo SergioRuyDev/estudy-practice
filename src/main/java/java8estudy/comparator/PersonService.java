@@ -1,7 +1,6 @@
-package java8estudy.conparator;
+package java8estudy.comparator;
 
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 public class PersonService {
