@@ -6,6 +6,9 @@ public class Person {
     private int age;
     private int timeService;
 
+    public Person() {
+    }
+
     public Person(String name, int age, int timeService) {
         this.name = name;
         this.age = age;
@@ -22,5 +25,17 @@ public class Person {
 
     public int getTimeService() {
         return timeService;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public void setTimeService(int timeService) {
+        this.timeService = timeService;
     }
 }
