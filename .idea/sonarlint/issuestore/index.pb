@@ -377,3 +377,7 @@ d
 4src/main/java/java8estudy/supplier/SupplierMain.java,3/c/3cc0d5e3f8bca646fe326be261ce0caf1d09fe2f
 d
 4src/main/java/java8estudy/consumer/ConsumerMain.java,d/f/df683e9f12f9e8238c038c0f3ec4c8e547f7126c
+`
+0src/main/java/java8estudy/comparator/Person.java,a/e/ae40efd6b5b33f0d6d803baa1a42bea372f300bf
+`
+0src/main/java/java8estudy/predicate/AndMain.java,6/1/61a42caba65ae5c27566b6c7a4f620c88da1a7f9

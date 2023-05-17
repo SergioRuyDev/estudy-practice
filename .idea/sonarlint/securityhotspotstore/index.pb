@@ -375,3 +375,7 @@ c
 3src/main/java/java8estudy/predicate/NegateMain.java,1/f/1fd09e770bd005b3b86495cc2d3ca9fa27644274
 b
 2src/main/java/java8estudy/predicate/EqualMain.java,5/2/522e161b7ceb423cc90666c4ce87fe6cb295163f
+`
+0src/main/java/java8estudy/predicate/AndMain.java,6/1/61a42caba65ae5c27566b6c7a4f620c88da1a7f9
+`
+0src/main/java/java8estudy/comparator/Person.java,a/e/ae40efd6b5b33f0d6d803baa1a42bea372f300bf
