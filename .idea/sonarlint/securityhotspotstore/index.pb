@@ -379,3 +379,7 @@ b
 0src/main/java/java8estudy/predicate/AndMain.java,6/1/61a42caba65ae5c27566b6c7a4f620c88da1a7f9
 `
 0src/main/java/java8estudy/comparator/Person.java,a/e/ae40efd6b5b33f0d6d803baa1a42bea372f300bf
+r
+Bsrc/main/java/java8estudy/functionalInterfaces/FunctionalMain.java,2/4/24c3e82ee25039bc56b099fa0bb6cfd5a7c8da21
+_
+/src/main/java/java8estudy/predicate/Person.java,4/6/46f49a12a7fe633f47ecaaa3ef30e213c1ee8038

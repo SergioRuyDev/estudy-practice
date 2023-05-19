@@ -41,14 +41,5 @@ public class StreamMain {
         System.out.println("Original list is not modified");
         list1.stream()
                 .forEach(System.out::println);
-
-        List<String> passeiPorra = new ArrayList<>();
-        passeiPorra.add("PASSEI PORRA");
-        passeiPorra.add("PASSEI PORRA");
-        passeiPorra.add("PASSEI PORRA");
-        passeiPorra.add("PASSEI PORRA");
-        passeiPorra.add("PASSEI PORRA");
-        passeiPorra.stream()
-                .forEach(System.out::println);
     }
 }
