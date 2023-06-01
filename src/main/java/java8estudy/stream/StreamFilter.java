@@ -20,11 +20,11 @@ public class StreamFilter {
                 .forEach(System.out::println);
 
         //In the above example, we wrote all the conditions in a single filter.
-        //We can also chain the filter method to make the code more readable.
+        //But We can also chain the filter method to make the code more readable.
         list.stream()
                 .filter(player -> player.getName() != null ) // Filtering the object where name is not null
                 .filter(player -> player.getAge() > 18 ) // Filtering the objects where age is greater than 18
-                .filter(player -> player.getAge() < 30) // Filtering the objects where age is less than 60
+                .filter(player -> player.getAge() < 30) // Filtering the objects where age is less than 30
                 .forEach(System.out::println);
     }
 }
