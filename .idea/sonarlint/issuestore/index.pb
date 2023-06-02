@@ -385,3 +385,7 @@ r
 Bsrc/main/java/java8estudy/functionalInterfaces/FunctionalMain.java,2/4/24c3e82ee25039bc56b099fa0bb6cfd5a7c8da21
 _
 /src/main/java/java8estudy/predicate/Person.java,4/6/46f49a12a7fe633f47ecaaa3ef30e213c1ee8038
+b
+2src/main/java/java8estudy/stream/StreamFilter.java,9/0/901143b787de791ad4afed1f05316e1b549aba76
+`
+0src/main/java/java8estudy/stream/StreamMain.java,8/3/8301f48a8719dac83eb7c23743b197b625d11b68
