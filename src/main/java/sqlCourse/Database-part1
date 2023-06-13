@@ -1,0 +1,217 @@
+Database Course Part 1
+
+Database is a shared of collection related of data.
+
+Changes to the mini-world are reflected in the database.
+
+A database is a logically coherent collection of data with some inherent meaning.
+
+A database is designed, built, and populated with data for a specific purpose.
+
+Facilities provided by a DBMS
+The DBMS is instrumental in facilitating the processes:
+
+Defining a database involves defining the data types, structures, and constraints of the data to be stored in the database.
+
+Constructing the database is the process of storing the data on a storage device that is controlled by the DBMS.
+
+Manipulating a database involves querying the database to retrieve specific data, updating the database, etc.
+
+Sharing a database allows multiple users and programs to access the database simultaneously.
+
+A table is a collection of related data held in a table format within a database. It consists of columns and rows.
+
+Each row in a relational database represents one instance of the type of object described in that table. A row is also called a record. While the columns in a table are the set of facts that we keep track of regarding that type of object. A column is also called an attribute.
+
+Row -> is the object in fact (an instance).
+Collumn -> is the atributes.
+
+Student table
+
+
+ ID 	First_Name	 Last_Name	  Class	      Major
+2001    	Adam	 Smith	      Junior	  CS
+2342	  Jonathan	 Joestar	  Sophomore	  Economics
+2343	   Lucas	 Klein	      Senior	  Physics
+
+
+A database system is self-describing because it not only contains the database itself, but also the meta-data which defines and describes the data and relationships between tables in the database.
+
+A view is a subset of the database, which is defined and dedicated for particular users of the system.
+
+This access is achieved through features called concurrency control strategies. These strategies ensure that the data accessed are always correct and that data integrity is maintained.
+
+1. Control of data redundancy#
+In the database approach, ideally, each data item is stored in only one place in the database
+
+2. Data sharing
+First, it allows for data sharing among employees and others who have access to the system. Second, it gives users the ability to generate more information from a given amount of data than would be possible without the integration.
+
+3. Enforcement of integrity constraints
+A database constraint is a restriction or rule that dictates what can be entered or edited in a table, such as adding a valid course name in the Course_Name column in the COURSE table.
+There are many types of database constraints. One of them is data type, which determines the sort of data that can be entered. For example, integers only. Another restraint is data uniqueness, which specifies that data item values must be unique, such as every record in the STUDENT table must have a unique value for ID.
+
+4. Restriction of unauthorized access
+Not all users of a database system will have the same access privileges.
+For this reason, a database management system should provide a security subsystem to create and control different types of user accounts and restrict unauthorized access.
+
+5. Backup and recovery facilities
+Backup and recovery are methods that allow you to protect your data from loss.
+
+Data Models
+A data model is a collection of concepts or notations for describing data, data relationships, data semantics, and data constraints.
+
+1. High-level conceptual data models
+High-level conceptual data models provide a way to present data that is similar to how people perceive data.
+Like a Object, entities, attribute and etc...
+
+Entity relationship model #
+An entity represents a real-world object such as an employee or a project. The entity has attributes that represent properties such as an employee’s name, address, and birthdate. A relationship represents an association among entities; for example, an employee works on many projects.
+
+2. Record-based logical data models #
+Three well-known data models of this type are: hierarchical, network, and relational data models.
+
+Hierarchical model
+In a hierarchical model, data is organized into a tree-like structure, implying a single parent for each record.
+
+Network model #
+The network model expands upon the hierarchical structure, allowing each record to have multiple parent and child records, forming a generalized graph structure.
+
+Relational model
+The relational model represents data as relations or tables. For example, the university database system contains multiple tables (relations) which in turn have several attributes (columns) and tuples (rows).
+
+3. Physical data models #
+The physical data model represents how data is stored in computer memory, how it is scattered and ordered in the memory, and how it would be retrieved from memory. Basically physical data model represents each table, its columns, and specifications, etc.
+
+Database schema#
+A schema is the blueprint of a database. The names of tables, columns of each table, datatype, functions, and other objects are included in the schema.
+
+Database instance#
+An instance is the information collected in a database at some specific moment in time, also known as the database state.
+
+The three-schema architecture
+The goal of the three-schema architecture is to separate the user applications from the physical database.
+In this architecture, schemas can be defined at the following three levels:
+
+1. External schema#
+An external schema describes the part of the database that a specific user is interested in. It hides the unrelated details of the database from the user like the exact process of retrieving or storing data from the database.
+
+2. Conceptual schema#
+The conceptual schema describes the database structure of the whole database for the community of users.
+
+3. Internal schema
+The internal schema describes how the database is stored on physical storage devices such as hard drives. The internal schema uses a physical data model and describes the complete details of data storage and access paths for the database.
+
+Why use the three-schema architecture
+Here are some of the goals that can be achieved using the three schema architecture:
+
+Every user should be able to access the same data, but be able to see a customized view of the data.
+
+The user does not need to deal directly with physical database storage details.
+
+The database administrator should be able to change the database storage structure without disturbing the user’s view.
+
+The internal structure of the database should remain unaffected when changes are made to the physical aspects of storage.
+
+Data Independence
+We outline the two types of data independence:
+
+1. Logical data independence#
+The ability to change the conceptual schema without changing the external schema or user view is called logical data independence.
+In other words, changes to the conceptual schema (e.g., alterations to the structure of the database, like adding a column or other tables) should not affect the function of the application (external views).
+
+2. Physical data independence#
+Physical data independence helps you to separate the conceptual schema from the internal schema. It allows you to provide a logical description of the database without the need to specify physical structures.
+
+Classification of Database Management Systems
+The most popular data model in use today is the relational data model. Well-known DBMSs like Oracle, MS SQL Server, DB2 and MySQL support this model.
+
+Classification based on number of users
+A DBMS can be classified based on the number of users it supports. It can be a single-user database system, which supports one user at a time, or a multi-user database system, which supports multiple users concurrently.
+
+Classification based on database distribution
+There are four main distribution systems for database systems and these, in turn, can be used to classify the DBMS.
+
+Centralized systems
+Within a centralized database system, DBMS and database are central. i.e., stored at a single location and is used by several other systems.
+
+Distributed database system#
+In a distributed database system, the actual database and the DBMS software are distributed across various sites that are connected by a computer network.
+
+Homogeneous distributed database systems#
+Homogeneous distributed database systems use the same DBMS software from multiple sites. Data exchanged between these various sites can be handled easily.
+
+Heterogeneous distributed database systems
+In a heterogeneous distributed database system, different sites might use different DBMS software, but there is additional common software to support data exchange between these sites.
+
+Intro to Entity-Relationship Model
+
+The entity-relationship data model
+The entity-relationship (ER) data model is a high-level conceptual data model that has existed for over 35 years. It is well suited to data modeling for use with databases because it is fairly abstract and is easy to discuss and explain. ER models, also called ER schemas, are represented by ER diagrams.
+
+ER modeling is based on two concepts:
+
+Entities, defined as tables that hold specific information (data).
+
+Relationships, defined as the associations or interactions between entities.
+
+Here is an example of how these two concepts might be combined in an ER data model: Prof. Lawrence (entity) teaches (relationship) the database systems course (entity).
+
+Entity types and entity sets
+A database usually contains groups of entities that are similar. For example, a company employing hundreds of employees may want to store similar information concerning each of their employees. These EMPLOYEE entities share the same attributes (like Name, Salary, Age), but each entity has its own values for each attribute. An entity type defines a collection (or set) of entities that have the same attributes. Each entity type in the database is described by its name and attributes.
+
+The collection of all entities of a particular entity type in the database at any point in time is called an entity set. The entity set is usually referred to using the same name as the entity type, even though they are two separate concepts.
+
+Representation in ER diagrams
+An entity type is represented in ER diagrams as a rectangular box enclosing the name of the entity type. For example we can see the entities from the previous lesson below:
+
+Attributes
+As stated in the previous lesson, each entity is described by a set of attributes. For example, the EMPLOYEE entity has attributes Name, Address, and Salary, etc.
+
+Each attribute has a name, is associated with an entity, and has a range of values it is allowed to take (an employee’s salary cannot be negative). However, information about the domain of an attribute is not presented in the ER diagram.
+
+In the entity-relationship diagram shown below, each attribute is represented by an oval with a name inside.
+Composite attributes
+Composite attributes can be divided into smaller subparts, which represent more basic attributes with independent meanings. Therefore, composite attributes consist of a hierarchy of attributes. Using our COMPANY database example, the Address attribute may consist of House_No, Street and Suburb. So this would be written as Address = 59 (House_No), Meek Street (Street), Kingsford (Suburb).
+
+Multivalued attributes#
+Multivalued attributes have a set of values for each entity. An example of a multivalued attribute from the COMPANY database; one employee may not have any college degrees, another may have one, and a third person may have two or more degrees. Therefore, different people can have a different amount of values for the Degrees attribute.
+
+Derived attributes
+Derived attributes are attributes that contain values calculated from other attributes. An example from the COMPANY database is that Age can be derived from the attribute Bdate. In this situation, Bdate is called a stored attribute, which is physically saved to the database.
+
+Key attributes of an entity type#
+An important constraint on the entities of an entity type is the key or uniqueness constraint on attributes. An entity type usually has one or more attributes whose values are distinct for each individual entity in the entity set. Such an attribute is called a key attribute, and its values can be used to identify each entity uniquely. For the EMPLOYEE entity type, a typical key attribute is Ssn (Social Security number) as each person has a unique social security number.
+
+Specifying that an attribute is a key of an entity type means that the preceding uniqueness property must hold for every entity set of the entity type. Hence, it is a constraint that prohibits any two entities from having the same value for the key attribute at the same time. This unique attribute is also known as the primary key.
+
+Other examples of primary keys in the COMPANY database include Dept_Id which can be used to identify each department in the company. Also, Project_Id acts as the key attribute for the PROJECT entity.
+
+Composite keys#
+Sometimes a single attribute is not enough to uniquely identify each entity within an entity set.
+
+Let’s take the example of a CAR entity. The VIN (vehicle identification number) attribute is formed from two simple component attributes, State and Number, neither of which is a key on its own, as both can never be unique for every car. However, their combination can uniquely identify every car in the country.
+
+In cases like this, several attributes together form a key, meaning that the combination of the attribute values must be distinct for each entity. If a set of attributes possesses this property, the proper way to represent this in the ER model that we describe here is to define a composite attribute and designate it as a key attribute of the entity type. This is called a composite key.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
