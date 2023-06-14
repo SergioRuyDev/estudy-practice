@@ -194,7 +194,29 @@ Let’s take the example of a CAR entity. The VIN (vehicle identification number
 
 In cases like this, several attributes together form a key, meaning that the combination of the attribute values must be distinct for each entity. If a set of attributes possesses this property, the proper way to represent this in the ER model that we describe here is to define a composite attribute and designate it as a key attribute of the entity type. This is called a composite key.
 
+Relationships, relationship sets and relationship types
+A relationship is an association between two entities, for example, an entity EMPLOYEE WORKS_ON PROJECT, which is another entity. However, note that different instances of employees will be working on different projects. So an employee, John WORKS_ON Project Netlife and maybe some other employee Sara (who is also an instance of an employee) WORKS_ON Project mForm.
 
+So we can say that relationship type is simply the relationship that exists between two entities like WORKS_ON. While the set of similar associations at a point of time is called the Relationship Set.
+
+Degrees of relationship types
+Consider the scenario where an employee works on multiple projects, so for a single EMPLOYEE entity the number of PROJECT entities he/she is associated with is multiple. Similarly, a PROJECT entity can have multiple EMPLOYEE entities that work on it. We represent this situation in our ER model through the degrees of a relationship.
+
+The degree of a relationship type is the number of participating entities types. We will focus on mainly three types of degrees:
+
+The Unary (recursive) relationship type
+The unary relationship type involves only one entity type. However, the same entity type participates in the relationship type in different roles. For example, The SUPERVISES relationship type relates an employee to a supervisor, where both employee and supervisor entities are members of the same EMPLOYEE entity set. Hence, the EMPLOYEE entity type participates twice in SUPERVISION: once in the role of supervisor, and once in the role of the supervisee.
+
+The Binary relationship type#
+This relationship type has two entity types linked together. This is the most common relationship type. For example, consider a relationship type WORKS_ON between the two entity types EMPLOYEE and PROJECT, which associates each employee with the project he/she is working on.
+
+The Ternary relationship type#
+If there are three entity types linked together, the relationship is called a ternary relationship. An example of a ternary relationship is SUPPLY, shown in the figure below, where each relationship instance r associates three entities—a supplier s, a part p, and a project j.
+
+Binary relationship type constraints
+In the previous lesson, we learned that there is a degree of relationship that exists between entities. However, sometimes this degree is affected by the constraints of the organization or a particular scenario. Consider, for example, a case where the company has a rule that each employee must work for exactly one department. In this and similar cases, we would like to describe this constraint in our schema. Such rules are usually called the “constraints” on the relationship types that exist in our schema.
+
+These constraints limit the possible combinations of entities that may participate in the corresponding relationship set. There are two main types of binary relationship constraints: mapping cardinality and participation.
 
 
 

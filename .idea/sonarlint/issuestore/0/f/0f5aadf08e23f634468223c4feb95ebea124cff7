@@ -1,0 +1,47 @@
+
+€
+java:S1192"bDefine a constant instead of duplicating this literal "It's your turn, please go inside." 3 times.(΄χ8ηΨΗκώ0
+~
+java:S1192I"\Define a constant instead of duplicating this literal "Appointment scheduled with " 3 times.(υΕόÿÿÿÿ8μτ¨κώ0
+
+java:S1192†"pDefine a constant instead of duplicating this literal "Sorry for the delay. Please wait for your turn." 3 times.(–²¤Σ8ηΨΗκώ0
+
+java:S1319:"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ΦΐΞ­8£κώ0
+’
+java:S1319>"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ΐ¬–ύÿÿÿÿ8£κώ0
+’
+java:S1319B"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(όµΐωÿÿÿÿ8£κώ0
+8
+java:S3626""Remove this redundant jump.(ϋΑέ…8¦£κώ0
+W
+java:S1854J"5Remove this useless assignment to local variable "p".(©Ε’ώÿÿÿÿ8©£κώ0
+R
+java:S1854Q"5Remove this useless assignment to local variable "p".(θ­8ψτ¨κώ0
+R
+java:S1854Y"5Remove this useless assignment to local variable "p".(θ­8ψτ¨κώ0
+8
+java:S3626Z"Remove this redundant jump.(ϋΑέ…8ψΠ§κώ0
+K
+java:S2140H")Use "java.util.Random.nextInt()" instead.(½―μόÿÿÿÿ8©£κώ0
+H
+java:S1481J"&Remove this unused "p" local variable.(©Ε’ώÿÿÿÿ8ª£κώ0
+F
+java:S2140O")Use "java.util.Random.nextInt()" instead.(‡ΐ¬8ϊτ¨κώ0
+C
+java:S1481Q"&Remove this unused "p" local variable.(θ­8ϊτ¨κώ0
+E
+java:S2140W")Use "java.util.Random.nextInt()" instead.(½·†$8ϊτ¨κώ0
+C
+java:S1481Y"&Remove this unused "p" local variable.(θ­8ϋτ¨κώ0
+`
+java:S1155a">Use isEmpty() to check whether the collection is empty or not.(±Ε„ψÿÿÿÿ8ª¥®κώ0
+`
+java:S1155k">Use isEmpty() to check whether the collection is empty or not.(Λνί…ωÿÿÿÿ8¬¥®κώ0
+`
+java:S1155u">Use isEmpty() to check whether the collection is empty or not.(ΰ­υωÿÿÿÿ8­¥®κώ0
+I
+java:S1125"'Remove the unnecessary boolean literal.(ΗζΈωÿÿÿÿ8χΨΗκώ0
+E
+java:S1125"'Remove the unnecessary boolean literal.(Θ¨ϊÿ8χΨΗκώ0
+D
+java:S1125™"'Remove the unnecessary boolean literal.(‰·€8ψΨΗκώ0

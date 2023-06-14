@@ -1,0 +1,9 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8É±Â«÷0
+R
+java:S1854"5Remove this useless assignment to local variable "r".(Ë¯©Ã8Ê±Â«÷0
+`
+java:S1659">Declare "i" and all following declarations on a separate line.(®éÉøÿÿÿÿ8Ë±Â«÷0
+H
+java:S1481"&Remove this unused "r" local variable.(®éÉøÿÿÿÿ8Ë±Â«÷0

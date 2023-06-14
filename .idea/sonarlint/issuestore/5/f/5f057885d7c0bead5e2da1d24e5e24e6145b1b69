@@ -1,0 +1,7 @@
+
+]
+java:S1854"@Remove this useless assignment to local variable "totalSalary1".(ë¤»Ü8Š¾ã‡1
+b
+java:S1612"@Replace this lambda with method reference 'Employee::getSalary'.(£Í‘‹ÿÿÿÿÿ8Š½¿ã‡1
+N
+java:S1481"1Remove this unused "totalSalary1" local variable.(ë¤»Ü8“¾ã‡1

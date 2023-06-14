@@ -1,0 +1,16 @@
+
+}
+java:S14882"[Immediately return this expression instead of assigning it to the temporary variable "rgb".(Χ»Βµώÿÿÿÿ8οκ¥φ0
+W
+java:S1854
+":Remove this useless assignment to local variable "reader".(ωΫ›’8σκ¥φ0
+‰
+java:S1130	"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ϋΏΨ8σκ¥φ0
+H
+java:S1481
+"+Remove this unused "reader" local variable.(ωΫ›’8τκ¥φ0
+X	java:S125"<This block of commented-out lines of code should be removed.(ΑµΧ8υκ¥φ0
+`
+java:S1659">Declare "g" and all following declarations on a separate line.(Μ‡λΊώÿÿÿÿ8υκ¥φ0
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€ι²Ε8ª­υφ0

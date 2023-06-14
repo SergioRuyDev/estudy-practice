@@ -1,0 +1,24 @@
+
+{
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(âÜ¸Óúÿÿÿÿ8¬«ñìý0
+v
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(øæ–ž8­«ñìý0
+{
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì™µîþÿÿÿÿ8îÉöìý0
+{
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(âÜ¸Óúÿÿÿÿ8¤›ýìý0
+{
+java:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(âÜ¸Óúÿÿÿÿ8¼¼‰íý0
+v
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(·“†§8½¼‰íý0
+’
+java:S13196"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(šþ¢–þÿÿÿÿ8¯«ñìý0
+Œ
+java:S1319E"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÊÈ­@8ñÉöìý0
+’
+java:S1319U"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(–£±Šùÿÿÿÿ8¦›ýìý0
+]	java:S125"<This block of commented-out lines of code should be removed.(¦ºžÆÿÿÿÿÿ8÷É“íý0
+N
+java:S1197",Move the array designators [][] to the type.(ÌŸ”ßúÿÿÿÿ8»«ñìý0
+D
+java:S1125>"'Remove the unnecessary boolean literal.(ÑìÂ¼8¾«ñìý0
