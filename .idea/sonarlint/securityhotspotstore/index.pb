@@ -355,3 +355,12 @@ b
 2src/main/java/java8estudy/stream/StreamFilter.java,9/0/901143b787de791ad4afed1f05316e1b549aba76
 `
 0src/main/java/java8estudy/stream/StreamMain.java,8/3/8301f48a8719dac83eb7c23743b197b625d11b68
+]
+-src/main/java/collections/StudyArrayList.java,8/1/81445e12be1fea49a32589efc8d359c2cabb5143
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+:
+
+estudo.iml,3/0/30f17f7e8bf081e07990366dbd41475194e025c2
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
