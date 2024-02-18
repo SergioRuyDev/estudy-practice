@@ -364,3 +364,5 @@ b
 estudo.iml,3/0/30f17f7e8bf081e07990366dbd41475194e025c2
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+V
+&src/main/java/leetcode/TwoPointer.java,7/3/73565ad09b6cfebe98d430918933b345c30d5b8d
