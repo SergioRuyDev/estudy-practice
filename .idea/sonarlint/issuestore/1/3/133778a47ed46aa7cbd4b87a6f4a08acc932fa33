@@ -1,3 +1,10 @@
 
 b
 java:S2184"ECast one of the operands of this subtraction operation to a "double".(çÉï€8‰Äã³ï0
+G	java:S106
+"+Replace this use of System.out by a logger.(Á€²8¶›±¾Ü1
+L	java:S106"+Replace this use of System.out by a logger.(…¹ã¤úÿÿÿÿ8¸›±¾Ü1
+G	java:S106"+Replace this use of System.out by a logger.(Áæ’¯8º›±¾Ü1
+L	java:S106"+Replace this use of System.out by a logger.(’‡éÏüÿÿÿÿ8»›±¾Ü1
+L	java:S106"+Replace this use of System.out by a logger.(ßõ”Œùÿÿÿÿ8¼›±¾Ü1
+G	java:S106"+Replace this use of System.out by a logger.(î÷Óš8¼›±¾Ü1
