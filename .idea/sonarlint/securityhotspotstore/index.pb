@@ -18,3 +18,13 @@ G.idea/sonarlint/issuestore/6/3/6383ab2d597b8c34bb6b5a74f9b39214632251fa,3/1/31
 Q.idea/sonarlint/securityhotspotstore/6/3/6383ab2d597b8c34bb6b5a74f9b39214632251fa,9/2/922c66b7bb5a72fe1ee3bc88ff3a6dc8b1a23296
 [
 +src/main/java/educative/complex/Result.java,7/2/729f4cc0bd445fb9c36dc93867dc2453cbab5651
+S
+#src/main/java/java8estudy/Wish.java,f/d/fdc770c8af568e04c1b7dce00ca1b8d2db305263
+[
++src/main/java/educative/LoopPalindrome.java,b/8/b8c330862ad83c4062c8f8911b6c8b29cbf9c2c8
+Y
+)src/main/java/leetcode/ReverseString.java,e/d/edd5ba732f7f6c10436ab2911ee31cd636c0d1f2
+_
+/src/main/java/leetcode/SquaresSortedArrray.java,1/d/1d07ea9e319f57e1b9413537f6699ad71cd25b87
+^
+.src/main/java/leetcode/SquaresSortedArray.java,3/2/32f75754e1100563e756569607b4baac77586d24
