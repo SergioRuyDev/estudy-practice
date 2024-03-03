@@ -24,7 +24,15 @@ S
 +src/main/java/educative/LoopPalindrome.java,b/8/b8c330862ad83c4062c8f8911b6c8b29cbf9c2c8
 Y
 )src/main/java/leetcode/ReverseString.java,e/d/edd5ba732f7f6c10436ab2911ee31cd636c0d1f2
-_
-/src/main/java/leetcode/SquaresSortedArrray.java,1/d/1d07ea9e319f57e1b9413537f6699ad71cd25b87
 ^
 .src/main/java/leetcode/SquaresSortedArray.java,3/2/32f75754e1100563e756569607b4baac77586d24
+Y
+)src/main/java/leetcode/SlidingWindow.java,7/3/73d7cc7278509acf3720605aa564fe34852a96aa
+Z
+*src/main/java/leetcode/SlidingWindow2.java,f/d/fd498680152d245d6ff1e7db948452468ab2fea5
+Z
+*src/main/java/leetcode/SlidingWindow3.java,4/d/4d6279b442606bd45c34c26e69ba3a3827eb079d
+Z
+*src/main/java/leetcode/SlidingWindow4.java,d/1/d17eb76bcb31cbce0ae70f7a2f163451b580ec16
+b
+2src/main/java/leetcode/MaximumAverageSubarray.java,2/b/2bff66bb50887b60dbb681defe10b1017d261a70
