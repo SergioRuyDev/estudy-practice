@@ -38,3 +38,9 @@ b
 2src/main/java/leetcode/MaximumAverageSubarray.java,2/b/2bff66bb50887b60dbb681defe10b1017d261a70
 U
 %src/main/java/leetcode/PrefixSum.java,4/f/4fea281b9d11bdd430c6ab2d5fec1da678387fe6
+V
+&src/main/java/leetcode/PrefixSum2.java,5/b/5bf02361ae9cfc725c88166f43d4bd7f58d4dd0a
+_
+/src/main/java/leetcode/RunningSumOf1dArray.java,7/3/730df1ee86e9b58647a7c71e83d7f1ef768284a1
+g
+7src/main/java/leetcode/MinimumValuePositiveStepSum.java,8/7/87baaa6c920dcaba0ef692b8a81e02b4baeb5e04
