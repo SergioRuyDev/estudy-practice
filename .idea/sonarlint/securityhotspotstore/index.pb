@@ -36,3 +36,5 @@ Z
 *src/main/java/leetcode/SlidingWindow4.java,d/1/d17eb76bcb31cbce0ae70f7a2f163451b580ec16
 b
 2src/main/java/leetcode/MaximumAverageSubarray.java,2/b/2bff66bb50887b60dbb681defe10b1017d261a70
+U
+%src/main/java/leetcode/PrefixSum.java,4/f/4fea281b9d11bdd430c6ab2d5fec1da678387fe6
