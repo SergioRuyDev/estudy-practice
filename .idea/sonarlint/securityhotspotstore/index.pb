@@ -44,3 +44,7 @@ _
 /src/main/java/leetcode/RunningSumOf1dArray.java,7/3/730df1ee86e9b58647a7c71e83d7f1ef768284a1
 g
 7src/main/java/leetcode/MinimumValuePositiveStepSum.java,8/7/87baaa6c920dcaba0ef692b8a81e02b4baeb5e04
+c
+3src/main/java/leetcode/KradiusSubarrayAverages.java,f/d/fd796d3cfd92c8e6079a7c5fdec13dcb27664082
+S
+#src/main/java/leetcode/LeetCodeQuiz,5/2/524304e6515d967362cb30fb425138ae69205413

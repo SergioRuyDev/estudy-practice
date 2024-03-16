@@ -1,6 +1,4 @@
 package leetcode;
-
-
 /**
  * Given an array of integers nums, you start with an initial positive value startValue.
  *
@@ -20,26 +18,56 @@ public class MinimumValuePositiveStepSum {
 
     public static int minStartValue(int[] nums) {
 
-        int n = nums.length;
+        // Start with startValue = 1.
+        int startValue = 1;
 
-        long[] prefix = new long[n];
-        prefix[0] = nums[0];
+        // While we haven't found the first valid startValue
+        while (true) {
+            // The step-by-step total equals startValue at the beginning.
+            // Use boolean parameter "isValid" to record whether the total
+            // is larger than or equal to 1.
+            int total = startValue;
+            boolean isValid = true;
 
-        for (int i = 1; i < n; i++) {
-            prefix[i] = nums[i] + prefix[i - 1];
-        }
+            // Iterate over the array "nums".
+            for (int num : nums) {
+                // In each iteration, calculate "total"
+                // plus the element "num" in the array.
+                total += num;
 
-        int ans = 0;
-        for (int i = 0; i < n - 1; i++) {
-            long leftSection = prefix[i];
-            long rightSection = prefix[n - 1] - prefix[i];
-            if (leftSection >= rightSection) {
-                ans++;
+                // If "total" is less than 1, we shall try a larger startValue,
+                // we mark "isValid" as "false" and break the current iteration.
+                if (total < 1) {
+                    isValid = false;
+                    break;
+                }
+            }
+
+            // If "isValid" is true, meaning "total" is never less than 1 in the
+            // iteration, therefore we return this "startValue". Otherwise, we
+            // go ahead and try "startValue" + 1 as the new "startValue".
+            if (isValid) {
+                return startValue;
+            } else {
+                startValue += 1;
             }
         }
-
-        return ans;
     }
+    /**
+     * Complexity Analysis
+     *
+     * Let nnn be the length of the array nums and mmm be the absolute value of the lower bound of elements in nums.
+     * Time complexity: O(n2⋅m)O(n^2 \cdot m)O(n2⋅m)
+     * Imagine the case when every element in the first half of nums is 1 and every element in the second half of nums is
+     * −m-m−m, that is nums=[1,1,1,1,...,−m,−m,−m]nums = [1,1,1,1,...,-m,-m,-m]nums=[1,1,1,1,...,−m,−m,−m].
+     * In this case, the minimum valid startValue is (n/2)⋅(m−1)+1(n/2)\cdot(m-1) + 1(n/2)⋅(m−1)+1, the same number of
+     * times we will do the iteration.
+     * Every iteration, we will start with startValue, and we must update the step-by-step total at least (n/2)+1(n/2) + 1(n/2)+1 times.
+     * Therefore, for large enough values of mmm and nnn, we will have time complexity equals: O(n2⋅m)O(n^2 \cdot m)O(n2⋅m)
+     * Space complexity: O(1)O(1)O(1)
+     * For each loop, we only need the current total and a flag to determine if it was ever smaller than 1, which only
+     * costs constant space.
+     */
 }
 
 

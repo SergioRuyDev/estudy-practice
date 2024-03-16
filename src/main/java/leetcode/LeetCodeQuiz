@@ -1,0 +1,85 @@
+Hints of the Quiz
+Each value of the prefix sum is the previous value plus the value in the same position of nums.
+
+The time complexity of appending to the end of a dynamic array is: O(1) amortized
+Sometimes the operation will cost O(n), but it doesn't happen often enough to make the average operation cost O(n).
+
+You have a mutable string and an array of characters with length n. You want to add all the characters in the array to
+the string one by one with string concatenation. What will the time complexity be?
+O(n), If the string is mutable, then each concatenation is O(1), which is performed n times.
+
+Sliding window algorithms have while loops inside for loops. Why is the time complexity still O(n)?
+The while loop can only iterate n times in total, so we say the work inside the for loop is amortized O(1).
+Always think about the range of values the while loop can loop over.
+
+You have a subarray that starts at index left and ends at index right (inclusive). How many elements are in the subarray?
+right - left + 1
+This is an important formula to remember for problems that ask for the number of subarrays that fit a constraint.
+
+Carefully read and make sure you understand the problem 713. Subarray Product Less Than K. Then, consider the following
+solution:
+class Solution {
+    public int numSubarrayProductLessThanK(int[] nums, int k) {
+        if (k <= 1) {
+            return 0;
+        }
+
+        int ans = 0;
+        int left = 0;
+        int curr = 1;
+
+        for (int right = 0; right < nums.length; right++) {
+            curr *= nums[right];
+            while (curr >= k) {
+                curr /= nums[left];
+                left++; // A
+            }
+
+            ans += right - left + 1;
+        }
+
+        return ans;
+    }
+}
+
+The following is a list of questions for you to answer. Click on each question to reveal the answer.
+
+If the line of code with comment "A" were removed, what would happen during execution, and how would it affect our answer?
+The left pointer would never move from the first element. Whenever the value of curr grows beyond k, we will divide by the
+first element only.
+If the first element is 1, we would end up with an infinite loop. If the first element is greater than 1, we will move forward.
+However, because left is stuck at 0, the answer would result in the length of the entire array every time, since we are using
+left in our calculation of the answer.
+
+Initially, our window is empty, so our window's product is 0. Why do we initialize curr with 1 and not 0?
+Because we are adding elements to the window with curr *= nums[right], if we initialized curr = 0, then curr would never
+change from 0. A product of 1 can be considered as "neutral", since multiplying 1 with anything will not change it.
+
+When calculating the answer, why do we add right - left + 1?
+At the moment when we add to the answer (immediately after the while loop), our window currently represents a valid window
+(product less than k). Because the input only has positive integers, we can consider every subarray that ends at right and begins at an index between left and right as a valid window.
+
+Locking in the ending point, we have right - left + 1 choices for the starting point. For example, if left = 2 and right = 4,
+we can choose the starting point of a valid subarray as 2, 3, or 4.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This line is crucial to the concept of sliding window and without it, the code loses all meaning as left and right are no longer tracking a window.
