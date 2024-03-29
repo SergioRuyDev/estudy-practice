@@ -48,3 +48,5 @@ c
 3src/main/java/leetcode/KradiusSubarrayAverages.java,f/d/fd796d3cfd92c8e6079a7c5fdec13dcb27664082
 S
 #src/main/java/leetcode/LeetCodeQuiz,5/2/524304e6515d967362cb30fb425138ae69205413
+[
++src/main/java/leetcode/hashmaps/TwoSum.java,b/9/b9694a603aa535646a461dab5d9ceda795971766
