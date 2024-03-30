@@ -50,3 +50,5 @@ S
 #src/main/java/leetcode/LeetCodeQuiz,5/2/524304e6515d967362cb30fb425138ae69205413
 [
 +src/main/java/leetcode/hashmaps/TwoSum.java,b/9/b9694a603aa535646a461dab5d9ceda795971766
+k
+;src/main/java/leetcode/hashmaps/FirstLetterAppearTwice.java,4/5/45858517c26be0426229e69090173dcd66e08f0c
