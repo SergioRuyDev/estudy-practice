@@ -52,3 +52,7 @@ S
 +src/main/java/leetcode/hashmaps/TwoSum.java,b/9/b9694a603aa535646a461dab5d9ceda795971766
 k
 ;src/main/java/leetcode/hashmaps/FirstLetterAppearTwice.java,4/5/45858517c26be0426229e69090173dcd66e08f0c
+`
+0src/main/java/leetcode/hashmaps/FindNumbers.java,8/7/87c3b81dbfed05e5f718387f8ef77e628c281af7
+\
+,src/main/java/leetcode/hashmaps/Pangram.java,c/6/c6e214bef71a75528b608ad585b19a80cb5b2f40
