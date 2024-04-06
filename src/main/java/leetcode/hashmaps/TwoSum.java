@@ -55,7 +55,7 @@ public class TwoSum {
             int num = nums[i];
             int complement = target - num;
             if (resultMap.containsKey(complement)) { // This operation is O(1)
-                return new int[] {i, resultMap.get(complement)};
+                return new int[] {resultMap.get(complement), i};
             }
             resultMap.put(num, i);
         }
