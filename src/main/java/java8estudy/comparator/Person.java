@@ -27,4 +27,13 @@ public class Person {
     public String getCountry() {
         return country;
     }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "age=" + age +
+                ", name='" + name + '\'' +
+                ", country='" + country + '\'' +
+                '}';
+    }
 }
