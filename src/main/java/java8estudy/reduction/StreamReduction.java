@@ -43,6 +43,7 @@ public class StreamReduction {
         list.add(new Employee("Iyan", 5,34000));
         list.add(new Employee("Ray", 63,54000));
 
+
 //        Optional<Integer> totalSalary = list.stream()
 //                .map(p -> p.getSalary()) // We are converting the Stream of Employees to Stream of Salaries
 //                .reduce((p, q) -> p + q);
@@ -80,6 +81,11 @@ public class StreamReduction {
          * stream is not empty, five will be added to the sum.
          */
 
+        int a = 3;
+        int b = 4;
+        sum(a, b);
+        System.out.println(sum(a, b));
+
         List<Integer> intList = new ArrayList<>();
         intList.add(1);
         intList.add(2);
@@ -115,5 +121,9 @@ public class StreamReduction {
                 .min(Comparator.naturalOrder());
 
         System.out.println("Min is: " + min.get());
+    }
+
+    public static int sum(int a, int b) {
+        return a + b;
     }
 }

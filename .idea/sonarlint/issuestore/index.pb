@@ -1003,3 +1003,5 @@ Q.idea/sonarlint/securityhotspotstore/9/e/9e88557ed993e80e8b15787c9fec2bd90d45aa
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
 Å
 Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,b/b/bbf202272a96de5cd6b6828ffdc55fb3ce45289c
+a
+1src/main/java/java8estudy/reduction/TestMain.java,f/2/f2806314a48700b048435a538fbb5d999725eef5

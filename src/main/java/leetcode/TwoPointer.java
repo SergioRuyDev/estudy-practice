@@ -38,7 +38,16 @@ public class TwoPointer {
         int right = s.length() - 1;
 
         while (left < right) {
-            if (s.charAt(left) != s.charAt(right)) {
+
+            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
+                left++;
+            }
+
+            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
+                right--;
+            }
+
+            if (s.toLowerCase().charAt(left) != s.toLowerCase().charAt(right)) {
                 return false;
             }
 
@@ -50,7 +59,7 @@ public class TwoPointer {
     }
 
     public static boolean checkIntIfPalindrome(int x) {
-        // If x is negative or ends with 0 but is not 0, it's not a palindrome
+        // Números negativos e múltiplos de 10 (exceto 0) não são palíndromos
         if (x < 0 || (x % 10 == 0 && x != 0)) {
             return false;
         }
